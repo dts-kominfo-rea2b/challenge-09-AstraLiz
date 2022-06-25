@@ -1,4 +1,25 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  line-height: 25px;
+  color: #000;
+}
+
+body {
+  background: linear-gradient(rgb(250, 252, 210), rgb(253, 104, 34));
+  width: 100%;
+}
+
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  width: 880px;
+  margin: auto
 }

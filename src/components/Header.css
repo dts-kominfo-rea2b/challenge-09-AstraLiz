@@ -1,0 +1,24 @@
+.title {
+    margin: 20px;
+    font-size: 45px;
+}
+
+.sub-title {
+    margin: -10px;
+    font-size: 20px;
+}
+
+.dots {
+    font-size: 40px;
+    color: rgb(255, 166, 0);
+    margin-top: -10px;
+}
+
+.head {
+    width:100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    text-align:center;
+}
